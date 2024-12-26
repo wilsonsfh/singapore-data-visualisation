@@ -1,2 +1,0 @@
-# BAVP
-BAVP repository
